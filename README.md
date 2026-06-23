@@ -32,7 +32,7 @@ The preprocessed dataset includes:
 ## 3. Results
 
 Explore the full exploratory data analysis (EDA), data preparation, and modeling workflow here:  
-📓 [Rossmann Sales Project Notebook](https://github.com/Maxstef/Rossmann-sales-project/blob/main/notebooks/Rossmann_sales_project.ipynb)
+📓 [Rossmann Sales Project Notebook](https://github.com/Maxstef/rossmann-sales-forecasting/blob/main/notebooks/Rossmann_sales_project.ipynb)
 
 Final trained models and preprocessing pipelines are stored under the `/models` directory.  
 A fully interactive Streamlit app is deployed here:  
@@ -46,7 +46,7 @@ A fully interactive Streamlit app is deployed here:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Maxstef/Rossmann-sales-project.git
+   git clone https://github.com/Maxstef/rossmann-sales-forecasting.git
    cd Rossmann-sales-project
    ```
 
@@ -129,4 +129,4 @@ Potential directions for extending and improving this project include:
 ---
 
 💡 **Author:** [Maksym Stefanko](https://github.com/Maxstef)  
-📂 **Repository:** [Rossmann Sales Project](https://github.com/Maxstef/Rossmann-sales-project)
+📂 **Repository:** [Rossmann Sales Project](https://github.com/Maxstef/rossmann-sales-forecasting)
