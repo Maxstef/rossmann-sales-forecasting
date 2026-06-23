@@ -47,7 +47,7 @@ A fully interactive Streamlit app is deployed here:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Maxstef/rossmann-sales-forecasting.git
-   cd Rossmann-sales-project
+   cd rossmann-sales-forecasting
    ```
 
 2. **Create a virtual environment** (optional but recommended):
