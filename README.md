@@ -36,7 +36,7 @@ Explore the full exploratory data analysis (EDA), data preparation, and modeling
 
 Final trained models and preprocessing pipelines are stored under the `/models` directory.  
 A fully interactive Streamlit app is deployed here:  
-🌐 [Rossmann Sales Forecasting App](https://rossmann-sales-project-wjdsdyc4q2tohrrvyewajp.streamlit.app/)
+🌐 [Rossmann Sales Forecasting App](https://rossmann-sales-forecasting-app.streamlit.app/)
 
 ---
 
